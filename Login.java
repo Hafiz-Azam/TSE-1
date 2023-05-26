@@ -1,3 +1,4 @@
+// Login class represents the login functionality for users
 package crs;
 import java.util.Scanner;
 
