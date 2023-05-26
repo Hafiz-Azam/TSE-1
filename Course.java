@@ -1,3 +1,4 @@
+// Course class represents a course in a learning system or educational institution
 package crs;
 
 import java.io.BufferedReader;
